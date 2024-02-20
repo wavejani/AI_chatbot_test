@@ -1,0 +1,7 @@
+Reguirements:
+
+transformers==4.31.0 (pip install transformers)
+
+PyTorch==2.0.1 (pip install torch)
+
+Gradio (pip install gradio)
